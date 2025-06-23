@@ -1,0 +1,1 @@
+# replicando-imagem-de-tabela
